@@ -41,9 +41,7 @@ If you would like to know more about interpreting CNNs and convolutional layers 
   
 #### Transfer Learning
 
-[linkname](https://www.youtube.com/watch?v=LHG5FltaR6I)
-
-[![](http://img.youtube.com/vi/LHG5FltaR6I/0.jpg)](http://www.youtube.com/watch?v=LHG5FltaR6I "")
+[Youtube](https://www.youtube.com/watch?v=LHG5FltaR6I)
 
 Transfer learning involves taking a pre-trained neural network and adapting the neural network to a new, different data set.
 
