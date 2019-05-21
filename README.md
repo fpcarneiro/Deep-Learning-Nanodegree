@@ -7,7 +7,7 @@ If you would like to know more about interpreting CNNs and convolutional layers 
 * Here's a [section](http://cs231n.github.io/understanding-cnn/) from the Stanford's CS231n course on visualizing what CNNs learn.
 * Check out this [demonstration](https://aiexperiments.withgoogle.com/what-neural-nets-see) of a cool [OpenFrameworks](http://openframeworks.cc/) app that visualizes CNNs in real-time, from user-supplied video!
 * Here's a [demonstration](https://www.youtube.com/watch?v=AgkfIQ4IGaM&amp;t=78s) of another visualization tool for CNNs. If you'd like to learn more about how these visualizations are made, check out this [video](https://www.youtube.com/watch?v=ghEmQSxT6tw&amp;t=5s).
-* Read this Keras blog post on visualizing how CNNs see the world. In this post, you can find an accessible introduction to Deep Dreams, along with code for writing your own deep dreams in Keras. When you've read that:
+* Read this [Keras blog post](https://www.youtube.com/watch?v=XatXy6ZhKZw) on visualizing how CNNs see the world. In this post, you can find an accessible introduction to Deep Dreams, along with code for writing your own deep dreams in Keras. When you've read that:
   * Also check out this music video that makes use of Deep Dreams (look at 3:15-3:40)!
   * Create your own Deep Dreams (without writing any code!) using this website.
 * If you'd like to read more about interpretability of CNNs:
