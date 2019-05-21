@@ -1,6 +1,8 @@
 ### Deep-Learning-Nanodegree
 This repository contains material related to Udacity's Deep Learning Nanodegree Foundation program.
 
+___
+
 #### Really Cool Resources on Visualizing CNN
 
 If you would like to know more about interpreting CNNs and convolutional layers in particular, you are encouraged to check out these resources:
@@ -11,5 +13,5 @@ If you would like to know more about interpreting CNNs and convolutional layers 
   * Also check out this [music video](https://www.youtube.com/watch?v=XatXy6ZhKZw) that makes use of Deep Dreams (look at 3:15-3:40)!
   * Create your own Deep Dreams (without writing any code!) using this [website](https://deepdreamgenerator.com/).
 * If you'd like to read more about interpretability of CNNs:
-  * Here's an article that details some dangers from using deep learning models (that are not yet interpretable) in real-world applications.
-  * There's a lot of active research in this area. These authors recently made a step in the right direction.
+  * Here's an [article](https://blog.openai.com/adversarial-example-research/) that details some dangers from using deep learning models (that are not yet interpretable) in real-world applications.
+  * There's a lot of active research in this area. These [authors](https://arxiv.org/abs/1611.03530) recently made a step in the right direction.
