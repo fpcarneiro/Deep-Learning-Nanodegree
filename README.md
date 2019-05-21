@@ -11,6 +11,8 @@ This repository contains material related to Udacity's Deep Learning Nanodegree 
 
 ___
 
+### Convolutional Neural Network
+
 #### Really Cool Resources on Visualizing CNN
 
 If you would like to know more about interpreting CNNs and convolutional layers in particular, you are encouraged to check out these resources:
@@ -23,3 +25,13 @@ If you would like to know more about interpreting CNNs and convolutional layers 
 * If you'd like to read more about interpretability of CNNs:
   * Here's an [article](https://blog.openai.com/adversarial-example-research/) that details some dangers from using deep learning models (that are not yet interpretable) in real-world applications.
   * There's a lot of active research in this area. These [authors](https://arxiv.org/abs/1611.03530) recently made a step in the right direction.
+  
+### RNN
+
+#### LSTM
+Now that you've gone through the Recurrent Neural Network lesson, I'll be teaching you what an LSTM is. This stands for Long Short Term Memory Networks, and are quite useful when our neural network needs to switch between remembering recent things, and things from long time ago. But first, I want to give you some great references to study this further. There are many posts out there about LSTMs, here are a few of my favorites:
+
+* Chris Olah's LSTM post
+* Edwin Chen's LSTM post
+* Andrej Karpathy's lecture on RNNs and LSTMs from CS231n
+* So, let's dig in!
