@@ -1,6 +1,3 @@
-Project Submission
-------------------
-
 Generate TV Scripts
 ===================
 
