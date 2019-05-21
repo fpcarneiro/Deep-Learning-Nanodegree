@@ -1,3 +1,9 @@
+[//]: # (Image References)
+
+[image1]: ./images/02-guide-how-transfer-learning-v3-01.png "Sample Output"
+[image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
+[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
+
 ### Deep-Learning-Nanodegree
 This repository contains material related to Udacity's Deep Learning Nanodegree Foundation program.
 
@@ -44,7 +50,7 @@ the approach for using transfer learning will be different. There are four main 
 
 [
 
-![](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58e80aac_02-guide-how-transfer-learning-v3-01/02-guide-how-transfer-learning-v3-01.png)
+![Sample Output][image1]
 
 Four Cases when Using Transfer Learning
 
