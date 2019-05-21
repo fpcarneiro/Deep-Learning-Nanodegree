@@ -34,3 +34,5 @@ Now that you've gone through the Recurrent Neural Network lesson, I'll be teachi
 * [Chris Olah's LSTM post](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Edwin Chen's LSTM post](http://blog.echen.me/2017/05/30/exploring-lstms/)
 * [Andrej Karpathy's lecture on RNNs and LSTMs from CS231n](https://www.youtube.com/watch?v=iX5V1WpxxkY)
+
+If you would like to deepen your knowledge even more, go over the following [tutorial](https://skymind.ai/wiki/lstm). Focus on the overview titled: Long Short-Term Memory Units (LSTMs).
