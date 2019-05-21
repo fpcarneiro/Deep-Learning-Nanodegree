@@ -1,7 +1,7 @@
 [//]: # (Image References)
 
-[image1]: ./images/02-guide-how-transfer-learning-v3-01.png "Sample Output"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
+[image1]: ./images/02-guide-how-transfer-learning-v3-01.png
+[image2]: ./images/02-guide-how-transfer-learning-v3-02.png
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
 ### Deep-Learning-Nanodegree
@@ -61,19 +61,8 @@ Each of the four transfer learning cases has its own approach. In the following 
 
 To explain how each situation works, we will start with a generic pre-trained convolutional neural network and explain how to adjust the network for each case. Our example network contains three convolutional layers and three fully connected layers:
 
-[
-
-![](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58e80ae2_02-guide-how-transfer-learning-v3-02/02-guide-how-transfer-learning-v3-02.png)
-
+![Sample Output][image2]
 General Overview of a Neural Network
-
-
-
-
-
-
-
-](https://classroom.udacity.com/nanodegrees/nd101/parts/b9c4c3c3-b524-427b-8832-9d0748f14a2e/modules/cb574ac4-7144-4ba5-97b9-1c1265525ff8/lessons/37492b45-ee34-4dc3-a2e8-076149f92562/concepts/8c202ff3-aab5-46c3-8ed1-0154fa7b566b#)
 
 Here is an generalized overview of what the convolutional neural network does:
 
