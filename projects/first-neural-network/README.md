@@ -1,6 +1,3 @@
-Project Submission
-------------------
-
 Your First Neural Network
 =========================
 
