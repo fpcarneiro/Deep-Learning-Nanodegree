@@ -2,7 +2,14 @@
 
 [image1]: ./images/02-guide-how-transfer-learning-v3-01.png
 [image2]: ./images/02-guide-how-transfer-learning-v3-02.png
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
+[image3]: ./images/02-guide-how-transfer-learning-v3-03.png
+[image4]: ./images/02-guide-how-transfer-learning-v3-04.png
+[image5]: ./images/02-guide-how-transfer-learning-v3-05.png
+[image6]: ./images/02-guide-how-transfer-learning-v3-06.png
+[image7]: ./images/02-guide-how-transfer-learning-v3-07.png
+[image8]: ./images/02-guide-how-transfer-learning-v3-08.png
+[image9]: ./images/02-guide-how-transfer-learning-v3-09.png
+[image10]: ./images/02-guide-how-transfer-learning-v3-10.png
 
 ### Deep-Learning-Nanodegree
 This repository contains material related to Udacity's Deep Learning Nanodegree Foundation program.
@@ -74,19 +81,8 @@ Each transfer learning case will use the pre-trained convolutional neural networ
 
 ### Case 1: Small Data Set, Similar Data
 
-[
-
-![](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58e80b0b_02-guide-how-transfer-learning-v3-03/02-guide-how-transfer-learning-v3-03.png)
-
+![Sample Output][image3]
 Case 1: Small Data Set with Similar Data
-
-
-
-
-
-
-
-](https://classroom.udacity.com/nanodegrees/nd101/parts/b9c4c3c3-b524-427b-8832-9d0748f14a2e/modules/cb574ac4-7144-4ba5-97b9-1c1265525ff8/lessons/37492b45-ee34-4dc3-a2e8-076149f92562/concepts/8c202ff3-aab5-46c3-8ed1-0154fa7b566b#)
 
 If the new data set is small and similar to the original training data:
 
@@ -101,35 +97,13 @@ Since the data sets are similar, images from each data set will have similar hig
 
 Here's how to visualize this approach:
 
-[
-
-![](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58e80b31_02-guide-how-transfer-learning-v3-04/02-guide-how-transfer-learning-v3-04.png)
-
+![Sample Output][image4]
 Neural Network with Small Data Set, Similar Data
-
-
-
-
-
-
-
-](https://classroom.udacity.com/nanodegrees/nd101/parts/b9c4c3c3-b524-427b-8832-9d0748f14a2e/modules/cb574ac4-7144-4ba5-97b9-1c1265525ff8/lessons/37492b45-ee34-4dc3-a2e8-076149f92562/concepts/8c202ff3-aab5-46c3-8ed1-0154fa7b566b#)
 
 ### Case 2: Small Data Set, Different Data
 
-[
-
-![](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58e80b55_02-guide-how-transfer-learning-v3-05/02-guide-how-transfer-learning-v3-05.png)
-
+![Sample Output][image5]
 Case 2: Small Data Set, Different Data
-
-
-
-
-
-
-
-](https://classroom.udacity.com/nanodegrees/nd101/parts/b9c4c3c3-b524-427b-8832-9d0748f14a2e/modules/cb574ac4-7144-4ba5-97b9-1c1265525ff8/lessons/37492b45-ee34-4dc3-a2e8-076149f92562/concepts/8c202ff3-aab5-46c3-8ed1-0154fa7b566b#)
 
 If the new data set is small and different from the original training data:
 
