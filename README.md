@@ -118,35 +118,13 @@ But the original training set and the new data set do not share higher level fea
 
 Here is how to visualize this approach:
 
-[
-
-![](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58e80b82_02-guide-how-transfer-learning-v3-06/02-guide-how-transfer-learning-v3-06.png)
-
+![Sample Output][image6]
 Neural Network with Small Data Set, Different Data
-
-
-
-
-
-
-
-](https://classroom.udacity.com/nanodegrees/nd101/parts/b9c4c3c3-b524-427b-8832-9d0748f14a2e/modules/cb574ac4-7144-4ba5-97b9-1c1265525ff8/lessons/37492b45-ee34-4dc3-a2e8-076149f92562/concepts/8c202ff3-aab5-46c3-8ed1-0154fa7b566b#)
 
 ### Case 3: Large Data Set, Similar Data
 
-[
-
-![](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58e80ba3_02-guide-how-transfer-learning-v3-07/02-guide-how-transfer-learning-v3-07.png)
-
+![Sample Output][image7]
 Case 3: Large Data Set, Similar Data
-
-
-
-
-
-
-
-](https://classroom.udacity.com/nanodegrees/nd101/parts/b9c4c3c3-b524-427b-8832-9d0748f14a2e/modules/cb574ac4-7144-4ba5-97b9-1c1265525ff8/lessons/37492b45-ee34-4dc3-a2e8-076149f92562/concepts/8c202ff3-aab5-46c3-8ed1-0154fa7b566b#)
 
 If the new data set is large and similar to the original training data:
 
@@ -161,35 +139,13 @@ Because the original training set and the new data set share higher level featur
 
 Here is how to visualize this approach:
 
-[
-
-![](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58e80bc3_02-guide-how-transfer-learning-v3-08/02-guide-how-transfer-learning-v3-08.png)
-
+![Sample Output][image8]
 Neural Network with Large Data Set, Similar Data
-
-
-
-
-
-
-
-](https://classroom.udacity.com/nanodegrees/nd101/parts/b9c4c3c3-b524-427b-8832-9d0748f14a2e/modules/cb574ac4-7144-4ba5-97b9-1c1265525ff8/lessons/37492b45-ee34-4dc3-a2e8-076149f92562/concepts/8c202ff3-aab5-46c3-8ed1-0154fa7b566b#)
 
 ### Case 4: Large Data Set, Different Data
 
-[
-
-![](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58e80bf7_02-guide-how-transfer-learning-v3-09/02-guide-how-transfer-learning-v3-09.png)
-
+![Sample Output][image9]
 Case 4: Large Data Set, Different Data
-
-
-
-
-
-
-
-](https://classroom.udacity.com/nanodegrees/nd101/parts/b9c4c3c3-b524-427b-8832-9d0748f14a2e/modules/cb574ac4-7144-4ba5-97b9-1c1265525ff8/lessons/37492b45-ee34-4dc3-a2e8-076149f92562/concepts/8c202ff3-aab5-46c3-8ed1-0154fa7b566b#)
 
 If the new data set is large and different from the original training data:
 
@@ -203,19 +159,8 @@ If using the pre-trained network as a starting point does not produce a successf
 
 Here is how to visualize this approach:
 
-[
-
-![](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58e80c1c_02-guide-how-transfer-learning-v3-10/02-guide-how-transfer-learning-v3-10.png)
-
+![Sample Output][image10]
 Neural Network with Large Data Set, Different Data
-
-
-
-
-
-
-
-](https://classroom.udacity.com/nanodegrees/nd101/parts/b9c4c3c3-b524-427b-8832-9d0748f14a2e/modules/cb574ac4-7144-4ba5-97b9-1c1265525ff8/lessons/37492b45-ee34-4dc3-a2e8-076149f92562/concepts/8c202ff3-aab5-46c3-8ed1-0154fa7b566b#)
 
 ### Optional Resources
 
