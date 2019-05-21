@@ -169,22 +169,7 @@ Neural Network with Large Data Set, Different Data
 
 *   Search or ask questions in [Knowledge](https://knowledge.udacity.com/).
 *   Ask peers or mentors for help in [Student Hub](https://study-hall.udacity.com/).
-
-Next
-
-\_linkedin\_partner\_id="406745";window.\_linkedin\_data\_partner\_ids=window.\_linkedin\_data\_partner\_ids||\[\];window.\_linkedin\_data\_partner\_ids.push(\_linkedin\_partner\_id);(function(){var b=document.getElementsByTagName("script")\[0\],a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://snap.licdn.com/li.lms-analytics/insight.min.js";b.parentNode.insertBefore(a,b)})();
-
-![](https://dc.ads.linkedin.com/collect/?pid=406745&fmt=gif)
-
-!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b.\_fbq||(b.\_fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=\[\],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)\[0\],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en\_US/fbevents.js");fbq("init","2197623860455254");fbq("track","PageView");
-
-![](https://www.facebook.com/tr?id=2197623860455254&ev=PageView&noscript=1)
-
-!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b.\_fbq||(b.\_fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=\[\],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)\[0\],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en\_US/fbevents.js");fbq("init","823398221086645");fbq("track","PageView");
-
-![](https://www.facebook.com/tr?id=823398221086645&ev=PageView
-&noscript=1)
-  
+ 
 ### RNN
 
 #### LSTM
