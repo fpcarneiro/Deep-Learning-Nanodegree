@@ -54,12 +54,6 @@ the approach for using transfer learning will be different. There are four main 
 
 Four Cases when Using Transfer Learning
 
-
-
-
-
-
-
 ](https://classroom.udacity.com/nanodegrees/nd101/parts/b9c4c3c3-b524-427b-8832-9d0748f14a2e/modules/cb574ac4-7144-4ba5-97b9-1c1265525ff8/lessons/37492b45-ee34-4dc3-a2e8-076149f92562/concepts/8c202ff3-aab5-46c3-8ed1-0154fa7b566b#)
 
 A large data set might have one million images. A small data could have two-thousand images. The dividing line between a large data set and small data set is somewhat subjective. Overfitting is a concern when using transfer learning with a small data set.
